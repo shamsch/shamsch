@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shamsur, or you can call me Remon
-- 👀 I’m interested in primaraliy in web development and problem solving
+- 👀 I’m interested primaraliy in web development and problem solving
 - 🌱 I’m currently learning React JS and some back-end technologies 
 - 💞️ I’m looking to collaborate on small scale React based web app projects 
 - 📫 How to reach me shamsur314@gmail.com
