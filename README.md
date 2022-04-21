@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shamsur, or you can call me Remon
-- 👀 I’m interested primaraliy in web development and problem solving
-- 🌱 I’m currently learning React JS and eventually the MERN stack. 
-- 💞️ I’m looking to collaborate on small scale React based web app projects 
-- 📫 How to reach me shamsur314@gmail.com
+- 👋 Hi, I’m Shamsur Raza Chowdhury, but everyone just calls me Remon
+- 👀 I’m currently interested primaraliy in web application development and solving real world problem with code 
+- 🌱 I’m currently working for a startup in Tampere, Finland as an intern. 
+- 💞️ I’m looking for fun-sized project to collaborate with people early in their developer journey
+- 📫 shamsur314@gmail.com or Telegram 
 
 <!---
 shamsch/shamsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
