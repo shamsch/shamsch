@@ -53,12 +53,13 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" align="left" width="48" height="48">
     <!-- scss logo-->
     <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" align="left" width="48" height="48">
-
+    <!-- aws logo-->
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" align="left" width="48" height="48">
+    <!-- firebase logo-->
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" align="left" width="48" height="48">
 </div>
 
-<br/> 
-
-
+<br/>
 
 <!---
 shamsch/shamsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
