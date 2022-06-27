@@ -51,12 +51,17 @@
     <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" align="left" width="48" height="48">
     <!-- bootstrap logo-->
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" align="left" width="48" height="48">
-    <!-- scss logo-->
-    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" align="left" width="48" height="48">
-    <!-- aws logo-->
+    <!-- tailwind logo-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" align="left" width="48" height="48">
+    <!-- vercel logo -->
+    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" align="left" width="48" height="48">
+    <!-- aws logo -->
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" align="left" width="48" height="48">
-    <!-- firebase logo-->
+    <!-- aws lambda --->
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" align="left" width="48" height="48">
+    <!-- firebase logo -->
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" align="left" width="48" height="48">
+
 </div>
 
 <br/>
