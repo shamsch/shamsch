@@ -1,6 +1,6 @@
 <h1 align='center'> Hi, I’m Shamsur Raza Chowdhury </h1>
 
-- Student at [Tampere Unviersty](https://www.tuni.fi/en), Tampere, Finland 🧑🏽‍🎓
+- Student at [Tampere University](https://www.tuni.fi/en), Tampere, Finland 🧑🏽‍🎓
 
 - Reach out via shamsur314@gmail.com or Telegram [@reemwn](https://t.me/reemwn) 📫
 
