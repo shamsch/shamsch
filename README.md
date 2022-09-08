@@ -11,6 +11,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shamsch&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+## Problem Solving on LeetCode:
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shamsur314&theme=dark" width="400"/>
+</a>
+
 ## Techologies I use:
 
 <div> 
