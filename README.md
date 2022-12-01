@@ -15,12 +15,14 @@
 ## Techologies I use:
 
 <div> 
-  <!-- javascript logo -->
+    <!-- javascript logo -->
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" align="left" width="48" height="48">
     <!-- c++ logo -->
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" align="left" width="48" height="48">
     <!-- python logo -->
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" align="left" width="48" height="48">
+     <!-- golang logo -->
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" align="left" width="48" height="48">
     <!-- html logo -->
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" align="left" width="48" height="48">
     <!-- react logo -->
@@ -63,10 +65,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" align="left" width="48" height="48">
     <!-- firebase logo -->
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" align="left" width="48" height="48">
-    <!-- golang logo -->
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" align="left" width="48" height="48">
-
-
+   
 </div>
 
 <br/>
