@@ -63,6 +63,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" align="left" width="48" height="48">
     <!-- firebase logo -->
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" align="left" width="48" height="48">
+    <!-- golang logo -->
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" align="left" width="48" height="48">
+
 
 </div>
 
