@@ -2,7 +2,7 @@
 
 - Student at [Tampere University](https://www.tuni.fi/en), Tampere, Finland 🧑🏽‍🎓
 
-- Checkout my website [here](https://shamsur.codes/)
+- Checkout my website [here](https://shams.fi/)
 - Reach out via shamsur314@gmail.com or Telegram [@reemwn](https://t.me/reemwn) 📫
 
 ## Activities on Github:
