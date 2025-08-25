@@ -1,6 +1,6 @@
 <h1 align='center'> Moi, I'm Shamsur </h1>
 
-- Reach out via [shamsur314@gmail.com](mailto:shamsur314@gmail.com) or Telegram [@reemwn](https://t.me/reemwn) 📫
+- Reach out via [email](mailto:shamsur314@gmail.com) or Telegram [@reemwn](https://t.me/reemwn) 📫
 
 ## Activities on Github:
 
