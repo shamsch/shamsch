@@ -1,7 +1,6 @@
-<h1 align='center'> Hi, I'm Shamsur Chowdhury </h1>
+<h1 align='center'> Moi, I'm Shamsur </h1>
 
-- Student at [Tampere University](https://www.tuni.fi/en), Tampere, Finland 🧑🏽‍🎓
-- Reach out via shamsur314@gmail.com or Telegram [@reemwn](https://t.me/reemwn) 📫
+- Reach out via [shamsur314@gmail.com](mailto:shamsur314@gmail.com) or Telegram [@reemwn](https://t.me/reemwn) 📫
 
 ## Activities on Github:
 
@@ -10,7 +9,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shamsch&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-## Technologies I use:
+## Technologies
 
 <div> 
     <!-- python logo -->
@@ -24,9 +23,15 @@
     <!-- react logo -->
     <img src="https://img.icons8.com/plasticine/344/react.png" alt="React" align="left" width="48" height="48">
     <!-- postgresql logo -->
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" align="left" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" width="48" height="48">
     <!-- aws logo -->
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" align="left" width="48" height="48">
+    <!-- terraform logo -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" align="left" width="48" height="48">
+    <!-- docker logo -->
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" align="left" width="48" height="48">
+    <!-- linux logo -->
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" align="left" width="48" height="48">
 </div>
 
 <br/>
